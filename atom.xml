@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>你说你🐴呢</title>
+  
+  <subtitle>你说你🐴呢</subtitle>
+  <link href="https://kageyamaruka.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://kageyamaruka.github.io/"/>
+  <updated>2021-01-15T03:19:08.238Z</updated>
+  <id>https://kageyamaruka.github.io/</id>
+  
+  <author>
+    <name>KageyamaRuka</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello, World</title>
+    <link href="https://kageyamaruka.github.io/2021/01/15/hello-world/"/>
+    <id>https://kageyamaruka.github.io/2021/01/15/hello-world/</id>
+    <published>2021-01-15T02:57:00.825Z</published>
+    <updated>2021-01-15T03:19:08.238Z</updated>
+    
+    <content type="html"><![CDATA[<p>你好，世界</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;你好，世界&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
